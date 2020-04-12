@@ -11,4 +11,4 @@ print(df[df['Job']=='Doctor'])
 #total_count=df.groupby(['Job']).count()
 ##print(total_count['Name'])
 #print('below is logical statment where job is Engineer then print')
-#print(df.loc[df["Job"]=="Engineer"])
+
